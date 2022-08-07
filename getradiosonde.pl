@@ -12,7 +12,7 @@ my $pkgdoc = <<'EOD';
 # This script fetches multiple radiosonde data for a specified 
 # locator.
 #
-# @author          MK Hernandez
+# @author          Sky Hernandez
 # @since           01/08/2007
 # @project         Kat Reanalysis over S. FL
 # @version         $Header$
