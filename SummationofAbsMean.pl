@@ -11,7 +11,7 @@ my $pkgdoc = <<'EOD';
 # This script calculates the Summation of the Absolute Mean from a text file
 # that gives us the fractional mean of the GFS to the occs.
 # 
-# @author     Michael Hernandez
+# @author     Skylar Hernandez
 # @debuger    Doug Hunt
 # @since      07/24/2006
 # @version    $Header$
