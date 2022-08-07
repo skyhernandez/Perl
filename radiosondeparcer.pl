@@ -11,7 +11,7 @@ my $pkgdoc = <<'EOD';
 # This script parses the fetched radiosonde data from the Plymouth 
 # website.
 # 
-# @author              MK Hernandez
+# @author              Sky Hernandez
 # @since               01/18/2007
 # @project             Kat
 # @ussage              radiosondeparcer.pl ddd.hh.yyyy.index.txt
