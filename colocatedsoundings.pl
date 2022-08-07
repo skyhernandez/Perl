@@ -12,7 +12,7 @@ my $pkgdoc = <<'EOD';
 # Calculates the CAPE values of colocated radiosonde and COSMIC soundings
 # that are about 200km and a +/- 2 hour from a radiosonde launch.
 #
-# @author    Michael Hernandez, Doug Hunt
+# @author    Skylar Hernandez, Doug Hunt
 # @since     06/08/2006
 # @version   $Header$
 # @cdaacTask no
