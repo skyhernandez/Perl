@@ -10,7 +10,7 @@ my $pkgdoc = <<'EOD';
 # Look for matching occs 7 days before each point of the storm track
 # for a given storm.
 # 
-# @author     Michael Hernandez, Doug Hunt
+# @author     Skylar Hernandez, Doug Hunt
 # @since      06/08/2006
 # @version    $Header$
 # @cdaacTask  no
