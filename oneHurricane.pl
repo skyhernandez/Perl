@@ -9,7 +9,7 @@ my $pkgdoc = <<'EOD';
 #
 # Print details of one hurricane
 # 
-# @author     Michael Hernandez, Doug Hunt
+# @author     Skylar Hernandez, Doug Hunt
 # @since      06/08/2006
 # @version    $Header$
 # @cdaacTask  no
