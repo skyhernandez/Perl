@@ -9,7 +9,7 @@ my $pkgdoc = <<'EOD';
 #
 # Correlates occultations and cyclones.
 # 
-# @author     Michael Hernandez, Doug Hunt
+# @author     Skylar Hernandez, Doug Hunt
 # @since      06/08/2006
 # @version    $Header$
 # @cdaacTask  no
