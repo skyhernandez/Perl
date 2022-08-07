@@ -9,7 +9,7 @@ my $pkgdoc = <<'EOD';
 # This script fetches hurrican track data from the web and updates
 # the mission_cyclone database table.
 # 
-# @author     Michael Hernandez
+# @author     Skylar Hernandez
 # @since      06/08/2006
 # @version    $Header$
 # @cdaacTask  no
